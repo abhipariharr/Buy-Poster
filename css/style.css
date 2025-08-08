@@ -6,7 +6,7 @@ background-color: #111;
 }
 
 .hero-section {
-   background-image: url("images/bgi.jpg");
+   background-image: url("bgi.jpg");
   background-size: cover;
   background-position: center;
   height: 100vh;
